@@ -12,6 +12,7 @@ tasks:
       conda activate base
       git checkout main
       chmod +x ./bin/fastq-peek.sh && echo "Gitpod environment setup complete."
+      pip3 install miniwdl
 vscode:
   extensions: # based on nf-core.nf-core-extensionpack
     - codezombiech.gitignore                 # Language support for .gitignore files
