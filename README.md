@@ -11,35 +11,6 @@ If you don't already have a GitHub account, please go to github.com and register
 - Navigate to https://gitpod.io/
 - Select "Continue with GitHub", authorize Gitpod to access your GitHub account, and sign in with your credentials
 
-### GitPod Configuration for Public Repositories
-Once registered, navigate to your User Settings to enable write access to public repositories:
-- User Settings can be accessed by clicking your profile photo in the upper right hand corner
-
-<p align="center">
-  <img src="./images/rm_01.png" width="800" class="center">
-</p>
-
-
-  - Select Git Providers
-
-<p align="center">
-  <img src="./images/rm_02.png" width="800" class="center">
-</p>
-
-
-  - Then select the three verticle dots on the right of the GitHub section and select "Edit Permissions"
-
-<p align="center">
-  <img src="./images/rm_03.png" width="800" class="center">
-</p>
-
-
-  - From the Edit Permissions menu, check "public_repo", then click "Update Permissions"
-
-<p align="center">
-  <img src="./images/rm_04.png" width="400" class="center">
-</p>
-
 ### GitPod Workspace
   - Navigate to your Workspaces tab and select New Workspace
 
