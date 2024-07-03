@@ -26,3 +26,4 @@ vscode:
     - streetsidesoftware.code-spell-checker  # Spelling checker for source code
     - anwar.papyrus-pdf                      # PDF preview
     - ms-python.python                       # Extension for Python development, including linting with pylint
+    - broadinstitute.wdl-devtools@0.0.77     # WDL DevTools for WDL language support and linting
