@@ -50,10 +50,6 @@ Once registered, navigate to your User Settings to enable write access to public
   - Set the repository to the name of this workspace: https://github.com/theiagen/dev-assessment{NAME}/
   - Select the default Editor and default Class, click "Continue"
 
-<p align="center">
-  <img src="./images/e1-1.png" width="600" class="center">
-</p>
- 
 
 🚨**NOTE**🚨 Once you're finished working, make sure to shut down your workspace to save your allotted free hours (50hr/month) in GitPod. There are a few ways to stop your workspace from running:
 - In GitPod environment (VSCode interface), click on the orange Gidpod in bottom left corner. Select "Stop Workspace"
@@ -65,3 +61,5 @@ Once registered, navigate to your User Settings to enable write access to public
 - Navigate to https://gitpod.io/, find your workspace in the list, click on the three-dot button, and select "Stop" 
 
 <p align="center">
+  <img src="./images/stop-workspace2.png" width="600" class="center">
+</p>
