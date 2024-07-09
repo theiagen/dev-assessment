@@ -18,7 +18,7 @@ If you don't already have a GitHub account, please go to github.com and register
   <img src="./images/rm_05.png" width="800" class="center">
 </p>
 
-  - Set the repository to the name of this workspace: https://github.com/theiagen/dev-assessment{NAME}/
+  - Set the repository to the name of this workspace: https://github.com/theiagen/dev-assessment/
   - Select the default Editor and default Class, click "Continue"
 
 
