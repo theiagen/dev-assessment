@@ -1,4 +1,4 @@
-# Theaigen Dev-Assessment
+# Theiagen Dev-Assessment
 This repository was created to assess a candidate's technical capabilities as a bioinformatics software developer. 
 
 ## Prerequisites for Technical Dev Assessment:
